@@ -3,6 +3,12 @@ body {
 }
 
 body div {
-  font-size: 10px;
+  font-size: 20px;
+}
+
+.block {
+  -ms-flex-item-align: start;
+      -ms-grid-row-align: start;
+      align-self: start;
 }
 /*# sourceMappingURL=style.css.map */
